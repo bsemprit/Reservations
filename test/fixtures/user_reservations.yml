@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  startPlace: MyString
+  destination: MyString
+  time: 1
+  user_id: 
+  bus_id: 
+
+two:
+  startPlace: MyString
+  destination: MyString
+  time: 1
+  user_id: 
+  bus_id: 
